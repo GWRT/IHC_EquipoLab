@@ -1,0 +1,23 @@
+{
+    "language": "Idioma",
+    "systemLanguage": "Idioma del Sistema",
+    "textLogIn": "Iniciar Sesión",
+    "textWithPlaceholderUserLogin" : "USUARIO",
+    "textWithPlaceholderUserPassword" : "CONTRASEÑA",
+    "questionForPassword": "¿Olvidaste tu contraseña?",
+    "textButtonLogIn": "INGRESAR",
+    "textButtonLogInByEmail": "INGRESAR POR CORREO",
+    "questionForAccount": "¿No tienes cuenta?",
+    "textRegister": "Registrate",
+    "inputPlaceHolderEmail": "Introduce tu correo electrónico",
+    "inputPlaceHolderYouFone": "Ingrese su teléfono para verificar tu identidad",
+    "inputDigitsForConfirm": "Introduce la clave de 6 digitos",
+    "sendButton": "ENVIAR",
+    "backButton": "ATRÁS",
+    "textUserList": "Lista de Usuarios",
+    "textInputUser": "Ingrese un nombre de usuario",
+    "textInputEmail": "Ingrese un correo electrónico",
+    "textInputPassword": "Ingrese una contraseña",
+    "textInputConfirmPassword": "Confirme su contraseña",
+    "textConfirmSingup": "su registro fue exitoso"
+}

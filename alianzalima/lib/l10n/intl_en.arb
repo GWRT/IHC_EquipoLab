@@ -1,0 +1,23 @@
+{
+    "language": "Language",
+    "systemLanguage": "System Language",
+    "textLogIn": "Log In",
+    "textWithPlaceholderUserLogin" : "USER",
+    "textWithPlaceholderUserPassword" : "PASSWORD",
+    "questionForPassword": "Did you forget your password?",
+    "textButtonLogIn": "LOG IN",
+    "textButtonLogInByEmail": "LOGIN BY E-MAIL",
+    "questionForAccount": "You do not have an account?",
+    "textRegister": "Sing Up",
+    "inputPlaceHolderEmail": "Enter your email",
+    "inputPlaceHolderYouFone": "Enter your phone to verify your identity",
+    "inputDigitsForConfirm": "Enter the 6-digit password",
+    "sendButton": "SEND",
+    "backButton": "BACK",
+    "textUserList": "User List",
+    "textInputUser": "Enter a username",
+    "textInputEmail": "Enter a E-Mail",
+    "textInputPassword": "Enter a Password",
+    "textInputConfirmPassword": "Confirm your password",
+    "textConfirmSingup": "your registration was successful"
+}

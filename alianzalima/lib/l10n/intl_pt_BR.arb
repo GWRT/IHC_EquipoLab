@@ -1,0 +1,23 @@
+{
+    "language": "Língua",
+    "systemLanguage": "Linguagem do sistema",
+    "textLogIn": "Iniciar Sessão",
+    "textWithPlaceholderUserLogin" : "DO UTILIZADOR",
+    "textWithPlaceholderUserPassword" : "SENHA",
+    "questionForPassword": "Você esqueceu sua senha?",
+    "textButtonLogIn": "CONECTE-SE",
+    "textButtonLogInByEmail": "LOGIN POR EMAIL",
+    "questionForAccount": "Você não tem uma conta?",
+    "textRegister": "Cadastre-se",
+    "inputPlaceHolderEmail": "Digite seu e-mail",
+    "inputPlaceHolderYouFone": "Digite seu telefone para verificar sua identidade",
+    "inputDigitsForConfirm": "Digite a senha de 6 dígitos",
+    "sendButton": "ENVIAR",
+    "backButton": "DE VOLTA", 
+    "textUserList": "Lista de usuários",
+    "textInputUser": "Insira um nome de usuário",
+    "textInputEmail": "Insira um E-mail",
+    "textInputPassword": "Insira uma senha",
+    "textInputConfirmPassword": "Confirme sua senha",
+    "textConfirmSingup": "seu registro foi bem sucedido"
+}
